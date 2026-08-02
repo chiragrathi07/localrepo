@@ -1,1 +1,1 @@
-# This is a first repo.
+# This is a new repository.
